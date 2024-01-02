@@ -1,4 +1,4 @@
-# C++ and RUST Programing language: Learning
+# C++ and RUST programming language: Learning
 
 1. Jan 2024: C++
 

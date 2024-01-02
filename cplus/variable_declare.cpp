@@ -27,7 +27,7 @@ x = 5; Assignment
     std::string addrees = "123 madurai.";
 
     std::cout << "Hello "<< name << '\n';
-
+    std::cout << "your are " << age << "year old" << std::endl;
     return 0;
 
 }

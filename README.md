@@ -1,4 +1,4 @@
-# C++ and RUST programming language: Learning
+# C++ and RUST programming language: My Learning Approach
 
 1. Jan 2024: C++
 

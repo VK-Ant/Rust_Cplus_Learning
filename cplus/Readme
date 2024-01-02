@@ -1,0 +1,3 @@
+How to run the C++ program g++ compiler
+
+- g++ myprogramfile.cpp -o myprogramfile
